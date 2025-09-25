@@ -1,0 +1,24 @@
+# Archivos del sistema Windows
+NTUSER.DAT
+NTUSER.DAT.*
+ntuser.dat.LOG*
+ntuser.ini
+
+# Carpetas no deseadas del sistema
+Favorites/
+Links/
+Microsoft/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Carpetas y archivos de editores (opcional)
+.vscode/
+.idea/
